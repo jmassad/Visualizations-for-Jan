@@ -1,0 +1,10 @@
+This repository contains:
+
+The master dataset
+data visualizations saved as images
+the dofile used to create (most of) the visuals
+excel files with more visuals
+
+Note:
+1) We ran out of time with RAFIT, but there are some summary visualizations in most of the sheets in the excel file
+2) More visuals and statistical tests are in the dofile--they're designed to be quick and informative, not really polished
